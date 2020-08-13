@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/akulsr0/akulsr0.svg)](http://hits.dwyl.com/akulsr0/akulsr0)
+
 
 ### Welcome here 👋
 
