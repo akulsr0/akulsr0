@@ -6,7 +6,7 @@ About me
 - Software Engineer
 - JavaScript | TypeScript | Python
 - React | Vue | React Native | Node
-- Website: http://akul.codes/
+- Website: https://akulsrivastava.com/
 - Playstore Apps: https://bit.ly/akul-play-apps
 - IG: /akulsr0
 
